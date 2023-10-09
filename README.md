@@ -1,7 +1,7 @@
 ## Olá! eu sou o Rich.com👋
 
 - 🔭 hoje trabalhando com front-end e back-and ...
-- 🌱 Aprendendo Java 
+- 🌱 php,js (Ajax,Jquery), HTML ,CSS 
 - 📖😊 Estudando ReactJs (Atualmente)
 
 <div align="center">
